@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/WebDevSimplified/stripe-checkout-simple.git"
+    "url": ""
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/WebDevSimplified/stripe-checkout-simple/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/WebDevSimplified/stripe-checkout-simple#readme",
+  "homepage": "",
   "dependencies": {
     "ejs": "^3.1.6",
     "express": "^4.17.2",
